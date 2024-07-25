@@ -1,4 +1,4 @@
-# Web Socket Foundation Project
+# Console Web Sockets
 This repository contains two console applications that lay the groundwork for developing various web socket-based features.
 
 ## Overview
