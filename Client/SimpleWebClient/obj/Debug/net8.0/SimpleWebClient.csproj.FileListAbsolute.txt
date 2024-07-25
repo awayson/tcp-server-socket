@@ -12,3 +12,4 @@ C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\refint\Si
 C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.pdb
 C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.genruntimeconfig.cache
 C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\ref\SimpleWebClient.dll
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.sourcelink.json
