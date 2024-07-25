@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrew\\code\\TCPSocket\\Client\\SimpleWebClient\\SimpleWebClient.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew\\code\\TCPSocket\\Client\\SimpleWebClient.csproj",
       "projectName": "SimpleWebClient",
-      "projectPath": "C:\\Users\\Andrew\\code\\TCPSocket\\Client\\SimpleWebClient\\SimpleWebClient.csproj",
+      "projectPath": "C:\\Users\\Andrew\\code\\TCPSocket\\Client\\SimpleWebClient.csproj",
       "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrew\\code\\TCPSocket\\Client\\SimpleWebClient\\obj\\",
+      "outputPath": "C:\\Users\\Andrew\\code\\TCPSocket\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
