@@ -10,4 +10,4 @@ These applications provide a starting point for building complex web socket func
 - IoT device communication
 
 ## Extensibility
-The project is designed to be extendable:
+The project is designed to be extendable.
