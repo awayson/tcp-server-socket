@@ -1,0 +1,14 @@
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\bin\Debug\net8.0\SimpleWebClient.exe
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\bin\Debug\net8.0\SimpleWebClient.deps.json
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\bin\Debug\net8.0\SimpleWebClient.runtimeconfig.json
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\bin\Debug\net8.0\SimpleWebClient.dll
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\bin\Debug\net8.0\SimpleWebClient.pdb
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.AssemblyInfoInputs.cache
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.AssemblyInfo.cs
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.dll
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\refint\SimpleWebClient.dll
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.pdb
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\SimpleWebClient.genruntimeconfig.cache
+C:\Users\Andrew\code\TCPSocket\Client\SimpleWebClient\obj\Debug\net8.0\ref\SimpleWebClient.dll
